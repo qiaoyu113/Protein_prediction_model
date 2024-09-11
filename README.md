@@ -45,7 +45,6 @@ This project focuses on predicting the secondary structure of proteins from thei
 - Optimization techniques such as grid search for learning rates and GRU unit tuning were employed to maximize prediction accuracy.
 
 ![img.png](media/result1.png)
-![img.png](media/result2.png)
 
 ## **My Responsibilities**
 
