@@ -15,6 +15,7 @@ This project focuses on predicting the secondary structure of proteins from thei
 
 ## **Project Structure**
 
+```
 |-- data/
 |   |-- train.npy                 # Training dataset (preprocessed)
 |   |-- test.npy                  # Test dataset (preprocessed)
@@ -31,6 +32,7 @@ This project focuses on predicting the secondary structure of proteins from thei
 |
 |-- train.py                      # Main script for training the RNN model
 |-- test.py                       # Script to evaluate the model on the test
+```
 
 
 ## **Model Training**
